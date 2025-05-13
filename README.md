@@ -1,7 +1,8 @@
-Proyecto de Machine Learning: Clasificación y Regresión con Scikit-learn
+# Proyecto de Machine Learning: Clasificación y Regresión con Scikit-learn
 Este proyecto demuestra la aplicación de múltiples algoritmos de aprendizaje supervisado, abarcando tanto tareas de clasificación como de regresión, utilizando la biblioteca scikit-learn.
 
-#Tecnologías y librerías utilizadas
+# Tecnologías y librerías utilizadas
+
 NumPy (numpy) – Para operaciones numéricas y manipulación de arreglos.
 
 Matplotlib (matplotlib.pyplot) – Para la visualización de resultados.
